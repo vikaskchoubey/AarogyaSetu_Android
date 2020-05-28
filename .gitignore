@@ -22,6 +22,7 @@ captures/
 local.properties
 keystore.properties
 app/covidSignCertificate.jks
+app/AarogyaSetu.jks
 app/google-services.json
 app/src/debug/google-services.json
 debug.keystore
